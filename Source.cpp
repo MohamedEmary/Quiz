@@ -1,3 +1,6 @@
+//Mohamed Ahmed ElSayed ElSayed
+//Section 11
+//Link to a clear photo of the source code and exe file: 
 #include <iostream>
 using namespace std;
 int main()
@@ -26,7 +29,3 @@ int main()
 	system("pause");
 	return 0;
 }
-//Mohamed Ahmed ElSayed ElSayed
-//Section 11
-//Link to a clear photo of the source code and exe file: 
-//Link to github repo: 
